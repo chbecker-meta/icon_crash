@@ -1,9 +1,0 @@
-{
-  "$schema": "https://openapi.vercel.sh/vercel.json",
-  "framework": null,
-  "rewrites": [
-    { "source": "/icon-light-32x32.png", "destination": "/api/missing-icon" },
-    { "source": "/icon-dark-32x32.png", "destination": "/api/missing-icon" },
-    { "source": "/apple-icon.png", "destination": "/api/missing-icon" }
-  ]
-}
